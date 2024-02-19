@@ -1,4 +1,4 @@
-Aqui está uma proposta de sintaxe e documentação para a sua linguagem de programação Rubyx:
+
 
 ## Sintaxe da Linguagem Rubyx
 
