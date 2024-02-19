@@ -84,4 +84,4 @@ Embora não explicitamente demonstrado no código fornecido, o Rubyx pode inclui
 ### Conclusão
 Com sua sintaxe simples e recursos poderosos, o Rubyx é uma escolha ideal para o desenvolvimento de aplicativos web modernos e escaláveis. Seu suporte nativo para manipulação de banco de dados e integração de serviços externos o torna uma ferramenta versátil para desenvolvedores de todas as habilidades.
 
-Espero que esta documentação seja útil para você! Se precisar de mais alguma coisa, estou à disposição.
+
